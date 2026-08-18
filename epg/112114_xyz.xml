@@ -58860,6 +58860,9 @@
 	<programme channel="newtv超级体育" start="20260818125900 +0800" stop="20260818140000 +0800">
 		<title lang="zh">实况录像-2026年世界艺术体操锦标赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260818140000 +0800" stop="20260818150000 +0800">
+		<title lang="zh">实况录像-2026年世界皮划艇激流回旋锦标赛 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
