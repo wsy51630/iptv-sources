@@ -1,4 +1,4 @@
-# List for **qwerttvv/Beijing-IPTV IPTV Mobile Multicast**
+# List for **qwerttvv/Beijing-IPTV IPTV Mobile Multicast**(Rollback)
 
 > M3U: [q_bj_iptv_mobile_m.m3u](/q_bj_iptv_mobile_m.m3u), TXT: [q_bj_iptv_mobile_m.txt](/txt/q_bj_iptv_mobile_m.txt)
 
@@ -139,4 +139,4 @@
 | 133 | 嘉佳卡通 | IPv4 直链 | <rtp://228.1.1.93:9268> |
 | 134 | 山东教育 | IPv4 直链 | <rtp://228.1.1.96:4120> |
 
-Updated at **Sat Nov 07 2026 23:12:59 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Nov 08 2026 03:08:28 GMT+0000 (Coordinated Universal Time)**
