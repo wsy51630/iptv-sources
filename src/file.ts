@@ -9,11 +9,30 @@ import type { TEPGSource } from "./epgs/utils"
 
 export const getContent = async (src: ISource | TEPGSource) => {
     const now = hrtime.bigint()
-    const url = /^https:\/\/raw.githubusercontent.com\//.test(src.url)
-        ? with_github_raw_url_proxy(src.url)
-        : src.url
+    const sourceUrl = src.url?.trim()
 
-    const res = await fetch(url)
+    if (!sourceUrl) {
+        throw new Error(`[${src.name}] Source URL is empty`)
+    }
+
+    const url = /^https:\/\/raw\.githubusercontent\.com\//.test(sourceUrl)
+        ? with_github_raw_url_proxy(sourceUrl)
+        : sourceUrl
+
+    let parsedUrl: URL
+    try {
+        parsedUrl = new URL(url)
+    } catch {
+        throw new Error(`[${src.name}] Invalid source URL: "${url}"`)
+    }
+
+    if (parsedUrl.protocol !== "http:" && parsedUrl.protocol !== "https:") {
+        throw new Error(
+            `[${src.name}] Unsupported source URL protocol: "${parsedUrl.protocol}"`
+        )
+    }
+
+    const res = await fetch(parsedUrl)
     return [res.ok, await res.text(), now]
 }
 
