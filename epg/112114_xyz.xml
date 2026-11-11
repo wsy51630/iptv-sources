@@ -55569,6 +55569,9 @@
 	<programme channel="newtv超级综艺" start="20261111134700 +0800" stop="20261111152000 +0800">
 		<title lang="zh">此生要去的100个地方</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261111152000 +0800" stop="20261111163700 +0800">
+		<title lang="zh">你好时光 第二季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -55616,6 +55619,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20261111143000 +0800" stop="20261111160000 +0800">
 		<title lang="zh">实况录像-2026中国杯世界花样滑冰大奖赛 双人滑</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261111160000 +0800" stop="20261111170000 +0800">
+		<title lang="zh">实况录像-2026年世界举重锦标赛 3</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -55709,6 +55715,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261111145100 +0800" stop="20261111153600 +0800">
 		<title lang="zh">21_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261111153600 +0800" stop="20261111162200 +0800">
+		<title lang="zh">22_梦中的那片海</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -56327,6 +56336,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261111145600 +0800" stop="20261111153600 +0800">
 		<title lang="zh">礼贡堂五十二味茯湿丸</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261111153600 +0800" stop="20261111161800 +0800">
+		<title lang="zh">16_欢颜</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
