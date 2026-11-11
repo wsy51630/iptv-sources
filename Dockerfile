@@ -1,7 +1,7 @@
 FROM node:22-alpine
 
-# Install the Yarn version used by this project.
-RUN npm install --global yarn@1.22.22
+# Use Corepack's Yarn 1 version; the Node image already provides the Yarn shim.
+RUN corepack enable && corepack prepare yarn@1.22.22 --activate
 
 WORKDIR /app
 
