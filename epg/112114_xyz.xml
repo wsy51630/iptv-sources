@@ -55608,6 +55608,9 @@
 	<programme channel="newtv超级体育" start="20261111125800 +0800" stop="20261111143000 +0800">
 		<title lang="zh">实况录像-2026/2027赛季斯诺克国际锦标赛 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261111143000 +0800" stop="20261111160000 +0800">
+		<title lang="zh">实况录像-2026中国杯世界花样滑冰大奖赛 双人滑</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
