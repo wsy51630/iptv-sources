@@ -55653,6 +55653,9 @@
 	<programme channel="newtv超级电影" start="20261111141300 +0800" stop="20261111160500 +0800">
 		<title lang="zh">长安伏妖</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20261111160500 +0800" stop="20261111172800 +0800">
+		<title lang="zh">绝对忠诚之国家利益</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -55718,6 +55721,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261111153600 +0800" stop="20261111162200 +0800">
 		<title lang="zh">22_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261111162200 +0800" stop="20261111170700 +0800">
+		<title lang="zh">20_你比星光美丽</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -56339,6 +56345,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261111153600 +0800" stop="20261111161800 +0800">
 		<title lang="zh">16_欢颜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261111161800 +0800" stop="20261111165800 +0800">
+		<title lang="zh">礼贡堂五十二味茯湿丸</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
