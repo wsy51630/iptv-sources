@@ -58851,6 +58851,9 @@
 	<programme channel="newtv超级综艺" start="20261113182100 +0800" stop="20261113193800 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261113193800 +0800" stop="20261113211800 +0800">
+		<title lang="zh">笑有新生</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -58949,6 +58952,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20261113175200 +0800" stop="20261113192700 +0800">
 		<title lang="zh">追猎行动</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261113192700 +0800" stop="20261113205300 +0800">
+		<title lang="zh">宗师</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59666,6 +59672,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261113190000 +0800" stop="20261113194500 +0800">
 		<title lang="zh">38_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261113194500 +0800" stop="20261113201500 +0800">
+		<title lang="zh">珍膳私享特膳粉第5期</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
